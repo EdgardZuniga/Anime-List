@@ -532,7 +532,22 @@ export const animes = [
         description: 'Chico posee el pecado capital de la gula, una bendicion o una maldicion.'
     },{
         Image: '',
+        tittle: 'Yamada Kun to lv 999 no koi wo suru',
+        type: '',
+        description: ''
+    },{
+        Image: '',
         tittle: 'Shangrila Frontier',
+        type: '',
+        description: ''
+    },{
+        Image: '',
+        tittle: 'Btoom',
+        type: '',
+        description: ''
+    },{
+        Image: '',
+        tittle: 'Hells Paradise',
         type: '',
         description: ''
     }
